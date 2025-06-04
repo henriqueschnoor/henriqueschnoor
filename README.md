@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=386641&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+Henrique+Schnoor;Tenho+21+anos;Sou+de+Limeira,+SP;Cursando+Analise+e+Desenvolvimento+de+Sistemas+na+UniEinstein;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=386641&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+Henrique+Schnoor;Tenho+21+anos;Sou+de+Limeira,+SP;Cursando;Analise+e+Desenvolvimento+de+Sistemas+na+UniEinstein;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
 
 
   <div align="center" style="display: inline_block"><br>
